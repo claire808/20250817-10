@@ -1,0 +1,1 @@
+console.log('Weave Headband AR v5.0 with thick hairband, bunny ears, moon background');
